@@ -13,5 +13,8 @@ root.render(
       <h1>Weather App</h1>
       <WeatherSearch />
     </div>
+    <footer>
+      <p>Created by StephieOj and open-sourced on <a href="https://github.com/stephieoj/stephieoj-react-weather-app">GitHub</a></p>
+    </footer>
   </StrictMode>
 );
