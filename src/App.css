@@ -12,3 +12,11 @@ h1 {
   font-size: 50px;
   font-family: 'Courier New', Courier, monospace;
 }
+
+footer {
+  margin-top: 20px;
+  font-size: 15px;
+  color: gray;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
